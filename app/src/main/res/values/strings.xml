@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoDo</string>
+    <string name="action_settings">Settings</string>
+    <string name="No_item">no item</string>
+    <string name="enter_nodo">Enter a nodo</string>
+    <string name="save_txt">SAVE</string>
+    <string name="empty_not_saved">Empty</string>
+</resources>
